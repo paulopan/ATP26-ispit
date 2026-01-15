@@ -46,3 +46,7 @@ Numerički popis
  1. Prvi element
  2. Drugi element
  3. Treći element
+
+ToDo
+- Tablica – Izradite tablicu s podacima o projektu (naziv, verzija, autor, datum, tehnologije).
+- Citat – Dodajte citat koristeći Markdown oznake
