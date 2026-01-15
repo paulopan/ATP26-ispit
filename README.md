@@ -17,3 +17,22 @@ User experience design draws from design approaches like [human-computer interac
 Another portion of the research is understanding the end-user and the purpose of the application. Though this might seem clear to the designer, stepping back and empathizing with the user will yield the best results.
 
 It helps to identify and prove or disprove assumptions, find commonalities across target audience members, and recognize their needs, goals, and mental models.
+
+Image 1.
+![Image 1](/img/img_1.jpg)
+
+Image 2.
+![Image 2](/img/img_2.jpg)
+
+Primjer koda
+```
+python version used 3.12.2
+
+requirements:
+selenium==4.39.0
+webdriver-manager==4.0.2
+
+run the script using: `python solve.py`
+- check the logs in terminal
+- on succss/failure screenshots will be saved in the same directory
+```
