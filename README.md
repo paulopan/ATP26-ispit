@@ -36,3 +36,13 @@ run the script using: `python solve.py`
 - check the logs in terminal
 - on succss/failure screenshots will be saved in the same directory
 ```
+
+Ne-numerički popis
+ - Prvi element 
+ - Drugi element 
+ - Treći element
+
+Numerički popis
+ 1. Prvi element
+ 2. Drugi element
+ 3. Treći element
