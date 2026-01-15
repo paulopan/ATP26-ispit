@@ -47,6 +47,9 @@ Numerički popis
  2. Drugi element
  3. Treći element
 
+[License](LICENSE.md)
+[Changelog](CHANGELOG.md)
+
 ToDo
 - Tablica – Izradite tablicu s podacima o projektu (naziv, verzija, autor, datum, tehnologije).
 - Citat – Dodajte citat koristeći Markdown oznake
